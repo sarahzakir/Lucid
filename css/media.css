@@ -1,0 +1,426 @@
+/*@media(max-width:1399px) and (min-width:1200px){
+
+    .phone {
+        width: 88%;
+    }
+    .phone img {
+        width: 38%;
+    }
+    .testimonial_section .heading h1::before {
+        left: 46%;
+    }
+    .testimonial_section .heading h1::after {
+        right: 48%;
+    }
+}
+*/
+@media(max-width:1400px){
+    .phone {
+        width: 29%;
+    }
+ }
+
+@media(max-width:1199px) and (min-width:992px){
+ 
+    .phone {
+        width: 35%;
+    }
+    .feature_items {
+        margin-left: 70px;
+    }
+    .btn_features {
+        margin-left: 18px;
+    }
+    .btn_download {
+        margin-right: 4px;
+    }
+    .heading h1::before {
+        left: 45%;
+    }
+    .heading h1::after {
+        right: 46%;
+    }
+    .device_content h3::before {
+        left: 1%;
+    }
+    .device_content h3::after {
+        right: 86%;
+    }
+    .customize_1 h1::before {
+        left: 1%;
+    }
+    .customize_1 h1::after {
+        right: 86%;
+    }
+
+}
+
+@media(max-width:991px) and (min-width:768px){
+
+    .navbar-light .navbar-nav .nav-link {
+        padding: 10px;
+        margin-left: 4px;
+        display: inline-block;
+    }
+    .navbar-light .navbar-nav .nav-link::before {
+        left: 7px;
+    }
+    .navbar-light .navbar-nav .nav-link::after {
+        right: 3px;
+    }
+    .navbar-light .navbar-nav .nav-link:hover::before {
+        width: 38%;
+    }
+    .navbar-light .navbar-nav .nav-link:hover::after {
+        width: 40%;
+    }
+    .heading h1::before {
+        left: 42%;
+    }
+    .heading h1::after {
+        right: 45%;
+    }
+    .feature_items {
+        margin-left: 35px;
+    }
+    .detail_phone img{
+        width: 100%;
+    }
+    .device_content h3::before {
+        left: 4px;
+    }
+    .device_content h3::after {
+        right: 272px;
+    }
+    .customize_1 h1::before {
+        left: 4px;
+    }
+    .customize_1 h1::after {
+        right: 271px;
+    }
+    .testimonial_section .heading h1::before {
+        left: 305px;
+    }
+    .testimonial_section .heading h1::after {
+        right: 330px;
+    }
+    .btn_features {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+    .btn_download {
+        margin-right: 0px;
+    }
+    .pricing_table .heading h1::before {
+        left: 45%;
+    }
+    .pricing_table .heading h1::after {
+        right: 46%;
+    }
+    .contact .heading h1::before {
+        left: 45%;
+    }
+    .contact .heading h1::after {
+        right: 46%;
+    }
+}
+
+@media(max-width:767px) and (min-width:576px){
+
+    .navbar-light .navbar-nav .nav-link {
+        margin-left: 0px;
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+    .nav-item{
+        text-align: center;
+        margin-top: 15px;
+    }
+    .banner_content h4 {
+        text-align: center;
+    }
+    .banner_content h1 {
+        text-align: center;
+    }
+    .banner_content p {
+        text-align: center;
+    }
+    .img-fluid {
+        margin-left: 40px;
+    }
+    .btn_download {
+        margin-right: 3px;
+        margin-left: -10px;
+    }
+    .btn_features {
+        margin-right: 25px;
+        margin-left: 80px;
+    }
+    .heading h1::before {
+        left: 40%;
+    }
+    .heading h1::after {
+        right: 44%;
+    }
+    .feature_section h4 {
+        padding-left: 23px;
+    }
+    .heading h1 {
+        margin-left: 10px;
+    }
+    .feature_items {
+        margin-bottom: 20px;
+        margin-top: 10px;
+        margin-left: 80px;
+    }
+    .feature_items img {
+        margin-top: 25px;
+        margin-left: 7px;
+    }
+    .device_content h6 {
+        text-align: center;
+    }
+    .device_content h3 {
+        text-align: center;
+    }
+    .device_content h3::before {
+        left: 219px;
+    }
+    .device_content h3::after {
+        right: 45%;
+    }
+    .devicecontent_icon p {
+        text-align: center;
+    }
+    .customize_1 h4 {
+        text-align: center;
+    }
+    .customize_1 h1 {
+        text-align: center;
+    }
+    .customize_1 h1::before {
+        left: 221px;
+    }
+    .customize_1 h1::after {
+        right: 45%;
+    }
+    .testimonial_section .heading h1::before {
+        left: 41%;
+    }
+    .testimonial_section .heading h1::after {
+        right: 47%;
+     }
+     .pricing_table .heading h1::before {
+        left: 41%;
+    }
+    .pricing_table .heading h1::after {
+        right: 47%;
+    }
+    .contact .heading h4 {
+        padding-left: 25px;
+    }
+    .contact .heading h1::before {
+        left: 43%;
+    }
+    .contact .heading h1::after {
+        right: 46%;
+    }
+    form {
+        width:65%;
+        bottom: -190px;
+    }
+    .client {
+        padding-top: 20px;
+    }
+    .client_details h3 {
+        margin-left: 45px;
+    }
+    .client_details h4 {
+        padding-left: 50px;
+    }
+    .price {
+        margin-bottom: 15px;
+    }
+}
+
+@media(max-width:575px) and (min-width:0px){
+
+.navbar-light .navbar-nav .nav-link {
+    margin-left: 0px;
+    display: inline-block;
+    margin-bottom: 15px;
+    }
+    .nav-item{
+        text-align: center;
+    }
+    .phone {
+        display: none;
+    }
+    .banner_content {
+        text-align: center;
+        margin: auto;
+    }
+    .price {
+        margin-bottom: 20px;
+    }
+    form {
+        width: 80%;
+        bottom: -185px;
+    }
+    .feature_items {
+        margin-left: 225px;
+        margin-bottom: 25px;
+        margin-top: 20px;
+    }
+    .device_content h6 {
+        text-align: center;
+    }
+    .device_content h3 {
+        text-align: center;
+    }
+    .device_content h3::before {
+        left: 237px;
+    }
+    .device_content h3::after {
+        right: 46%;
+    }
+    .customize_1 h4 {
+        text-align: center;
+    }
+    .customize_1 h1 {
+        text-align: center;
+    }
+    .customize_1 h1::before {
+        left: 43%;
+    }
+    .customize_1 h1::after {
+        right: 46%;
+    }
+    .heading h1::before {
+        left: 41%;
+    }
+    .heading h1::after {
+        right: 43%;
+    }
+    .footer_icon ul {
+        padding-left: 0px;
+    }
+    .testimonial_section .heading h1::before {
+        left: 45%;
+    }
+    .testimonial_section .heading h1::after {
+        right: 45%;
+    }
+    .pricing_table .heading h1::before {
+        left: 44%;
+    }
+    .pricing_table .heading h1::after {
+        right: 46%;
+    }
+    .contact .heading h1::before {
+        left: 45%;
+    }
+    .contact .heading h1::after {
+        right: 45%;
+    }
+}
+
+@media(max-width:445px) and (min-width:0px){
+
+    .btn_download {
+     margin-bottom: 15px;
+    }
+    .feature_items {
+     margin-left: 168px;
+    }
+    .heading h1::before {
+     left: 40%;
+    }
+    .heading h1::after {
+     right: 40%;
+    }
+    .detail_phone img{
+        width: 100%;
+    }
+    .device_content h3::before {
+        left: 41%;
+    }
+    .device_content h3::after {
+        right: 45%;
+    }
+    .customize_1 h1::before {
+        left: 41%;
+    }
+    .customize_1 h1::after {
+        right: 45%;
+    }
+    .testimonial_section .heading h1::before {
+        left: 42%;
+    }
+    .testimonial_section .heading h1::after {
+        right: 44%;
+    }
+    .btn_features {
+        margin-left: 40px;
+        margin-bottom: 10px;
+    }
+    .pricing_table .heading h1::before {
+        left: 43%;
+    }
+    .pricing_table .heading h1::after {
+        right: 43%;
+    }
+    .contact .heading h1::before {
+        left: 44%;
+    }
+    .contact .heading h1::after {
+        right: 43%;
+    }
+ }
+
+ @media(max-width:320px){
+
+    .heading h1::before {
+        left: 37%;
+    }
+    .heading h1::after {
+        right: 36%;
+    }
+    .feature_items {
+        margin-left: 106px;
+    }
+    .customize_1 h1::before {
+        left: 40%;
+    }
+    .customize_1 h1::after {
+        right: 42%;
+    }
+    .device_content h3::before {
+        left: 40%;
+    }
+    .device_content h3::after {
+        right: 41%;
+    }
+    .testimonial_section .heading h1::before {
+        left: 41%;
+    }
+    .testimonial_section .heading h1::after {
+        right: 41%;
+    }
+    .btn_download {
+        margin-left: 45px;
+    }
+    .pricing_table .heading h1::before {
+        left: 40%;
+    }
+    .pricing_table .heading h1::after {
+        right: 40%;
+    }
+    .contact .heading h1::before {
+        left: 40%;
+    }
+    .contact .heading h1::after {
+        right: 42%;
+    }
+ }
+
